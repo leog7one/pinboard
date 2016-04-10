@@ -24,6 +24,8 @@ gem 'jquery-rails'
 
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 
+gem 'rails_12factor', group: :production
+
 
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
